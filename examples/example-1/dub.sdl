@@ -1,0 +1,7 @@
+name "example-1"
+description "Example 1: query fabric channels"
+authors "Kai Nacke"
+copyright "Copyright © 2017, Kai Nacke"
+license "Apache-2.0"
+versions "VibeDefaultMain"
+dependency "hyperledger-fabric-sdk-rest-d" version="~master" path="../../"

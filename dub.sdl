@@ -1,0 +1,7 @@
+name "hyperledger-fabric-sdk-rest-d"
+description "D interface for hyperledger fabric (requires fabric-sdk-rest)"
+authors "Kai Nacke"
+copyright "Copyright © 2017, Kai Nacke"
+license "Apache-2.0"
+targetType "library"
+dependency "vibe-d" version="~>0.8.1"
